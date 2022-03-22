@@ -19,9 +19,8 @@ public class Neon_and_Factorial {
 		//System.out.println("rem is" +" "+rem);
 		while(i>=1&&rem>1)
 		{
-			//if(rem>1) {
-		i = i*rem;//1*5=5,5*4=20,20*3=60,60*2=120, 120*1=120
-		rem--;//4         3        2       1       0
+		i = i*rem;
+		rem--;
 	    //System.out.println(i);
 		}
 	    System.out.println("Factorial of given number is:"+" "+ i);
