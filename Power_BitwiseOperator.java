@@ -28,18 +28,6 @@ public class Power_BitwiseOperator {
 		}
 	}
 
-	
-
-	private void power2() {
-		// TODO Auto-generated method stub
-		int no=1011;
-		int rem = no%10;
-		System.out.println(rem*Math.pow(2,0));
-		no=no/10;
-		rem=no%10;
-		System.out.println(rem*Math.pow(2,1));
-	}
-
 	private void power1() {
 		// TODO Auto-generated method stub
 		int power=1;
