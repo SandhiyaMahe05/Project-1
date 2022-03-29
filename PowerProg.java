@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class PowerProg {
 	public static void main(String[] args) {
 		PowerProg pp = new PowerProg();
-		//pp.powerLogic();
+		pp.powerLogic();
 		pp.powerMath();
 	}
 
