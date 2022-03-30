@@ -35,7 +35,7 @@ public class NestedLoop_PatternPrograms{
 		{
 			for(int col=1;col<=row;col++)
 			{
-				System.out.print(row+" ");//row*col=5 10 15 20 25         4 8 1 16     3 6 9 
+				System.out.print(row+" ");
 				
 			}
 			System.out.println();
