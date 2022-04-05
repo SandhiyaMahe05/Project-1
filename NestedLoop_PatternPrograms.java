@@ -6,15 +6,15 @@ public class NestedLoop_PatternPrograms{
 	public static void main(String[] args) {
 		NestedLoop_PatternPrograms nsl = new NestedLoop_PatternPrograms();
 		
-		nsl.nestedloop1();
-		nsl.nestedloop2();
-		nsl.nestedloop3();
-		nsl.nestedloop4();
-		nsl.nestedloop5();
-		nsl.nestedloop6();
-		nsl.nestedloop7();
+		nsl.nestedLoop1();
+		nsl.nestedLoop2();
+		nsl.nestedLoop3();
+		nsl.nestedLoop4();
+		nsl.nestedLoop5();
+		nsl.nestedLoop6();
+		nsl.nestedLoop7();
 	}
-	private void nestedloop7() {
+	private void nestedLoop7() {
 		// TODO Auto-generated method stub
 		System.out.println(" ");
 		for(int row=5;row>=1;row--)
@@ -28,7 +28,7 @@ public class NestedLoop_PatternPrograms{
 		}
 	}
 
-	private void nestedloop6() {
+	private void nestedLoop6() {
 		// TODO Auto-generated method stub
 		System.out.println(" ");
 		for(int row=5;row>=1;row--)
@@ -42,7 +42,7 @@ public class NestedLoop_PatternPrograms{
 		}
 	}
 
-	private void nestedloop5() {
+	private void nestedLoop5() {
 		// TODO Auto-generated method stub
 		System.out.println(" ");
 		for(int row=5;row>=1;row--)
@@ -55,7 +55,7 @@ public class NestedLoop_PatternPrograms{
 		}
 	}
 
-	private void nestedloop4() {
+	private void nestedLoop4() {
 		// TODO Auto-generated method stub
 		System.out.println(" ");
 		for(int row=3;row>0;row--)
@@ -68,7 +68,7 @@ public class NestedLoop_PatternPrograms{
 		}
 	}
 
-	private void nestedloop3() {
+	private void nestedLoop3() {
 		// TODO Auto-generated method stub
 		System.out.println(" ");
 		for(int row=1;row<=3;row++) 
@@ -81,7 +81,7 @@ public class NestedLoop_PatternPrograms{
 		}
 	}
 
-	private void nestedloop2() {
+	private void nestedLoop2() {
 		// TODO Auto-generated method stub
 		System.out.println(" ");
 		for (int row=1;row<=3;row++)
@@ -94,7 +94,7 @@ public class NestedLoop_PatternPrograms{
 		}
 	}
 
-	private void nestedloop1() {
+	private void nestedLoop1() {
 		// TODO Auto-generated method stub
 		System.out.println(" ");
 		for(int no = 1; no<=3;no++)
